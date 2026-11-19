@@ -1,0 +1,6 @@
+{
+  "name": "RT: O TRIO",
+  "description": "TRÊS ANIMAIS. UMA ESCOLA. ZERO SOSSEGO. Sandbox 3D voxel de caos escolar no Brasil com três animais jogáveis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
